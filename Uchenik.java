@@ -4,7 +4,7 @@ public class Uchenik {
 	private String name;
 	private double uspeh;
 	private double height;
-	public static int SLOW = 1, FAST = 2, MEDIUM;
+	public static int SLOW = 1, FAST = 2, MEDIUM = 3;
 
 	Uchenik() {
 	}
